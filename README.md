@@ -1,12 +1,16 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+Jumppppp
 
 Description
 
 ## Implementation
-Which features you included.
+1: Multiple levels 
+2: Music and sound effects
+3: Extra enemies
+4: Parallax backgrounds 
+5: Attention paid to the start
 
 ## References
 
@@ -17,3 +21,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Chenxi Liu
